@@ -11,6 +11,9 @@ Features:
 - Result will be stored in the folder named by the format you've chosen.
 - In converting WEBP option, because of webp's length limit so I build a crop function. You can turn it on/off.
 
+Note:
+- Result will be overwrite if you run again.
+
 How to use:
 - Step 1: Install python
 - Step 2: Run cmd (ctrl + R -> type "cmd") -> type "pip install pillow"
