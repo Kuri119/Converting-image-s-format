@@ -19,4 +19,5 @@ How to use:
 - Step 2: Run cmd (ctrl + R -> type "cmd") -> type "pip install pillow"
 - Step 3: Open this file with terminal
 - Step 4: Have fun
+
 https://github.com/user-attachments/assets/ced122d8-7640-4491-882b-2c3867220d27
